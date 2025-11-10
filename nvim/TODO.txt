@@ -1,0 +1,7 @@
+- basic config(will come to me)
+- lazy
+- theme
+- which key
+- tmux integration
+- lsp
+- syntax highlighting(default?)
