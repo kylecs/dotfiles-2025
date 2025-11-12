@@ -1,5 +1,6 @@
 # 2025 dotfiles
 Some fresh dotfiles I have been working on, this is a complete rewrite of configurations for all my CLI tools.
+
 Theme - Catppuccin Mocha
 Font - Geist Mono Nerd
 
