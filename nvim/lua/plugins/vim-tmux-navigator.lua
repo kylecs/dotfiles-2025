@@ -17,5 +17,6 @@ return {
 	},
 	init = function()
 		vim.g.tmux_navigator_no_wrap = 1
-	end
+	end,
+	lazy = false,
 }

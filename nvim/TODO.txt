@@ -1,8 +1,6 @@
 - basic config(will come to me)
-- theme
 - which key
 - lsp
-- syntax highlighting(default?)
 - keep undo info after close
 - telescope
 - dashboard
