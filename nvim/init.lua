@@ -22,5 +22,8 @@ vim.opt.shiftwidth = 4
 -- persist undo info after closing nvim
 vim.opt.undofile = true
 
+-- show inline diagnostics
+vim.diagnostic.config({ virtual_text = true })
+
 -- lazy
 require("config.lazy")
