@@ -1,6 +1,5 @@
 - basic config(will come to me)
 - which key
-- lsp
 - keep undo info after close
 - telescope
 - dashboard
