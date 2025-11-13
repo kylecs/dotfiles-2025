@@ -1,5 +1,9 @@
+-- number and sign columns
 vim.opt.number = true
 vim.o.signcolumn = 'yes'
+
+-- keep cursor around center
+vim.o.scrolloff = 10
 
 -- sync buffers automatically
 vim.opt.autoread = true

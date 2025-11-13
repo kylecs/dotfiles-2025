@@ -1,7 +1,6 @@
 - basic config(will come to me)
-- which key
-- keep undo info after close
 - telescope
 - dashboard
 - bar
-- keep cursor more centered while doing C-u and C-d
+- format on save
+- load lsp automatically
