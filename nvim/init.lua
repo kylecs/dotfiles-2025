@@ -22,10 +22,5 @@ vim.opt.shiftwidth = 4
 -- persist undo info after closing nvim
 vim.opt.undofile = true
 
-vim.lsp.enable({
-	"rust-analyzer",
-})
-
 -- lazy
 require("config.lazy")
-
